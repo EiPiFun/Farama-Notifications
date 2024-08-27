@@ -1,0 +1,5 @@
+python-farama-notifications (0.0.4-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1079769)
+
+ -- Dong Xu <me@eipi.fun>  Tue, 27 Aug 2024 16:08:49 +0800
